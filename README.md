@@ -300,15 +300,17 @@ Simply upload the sample resume and paste the sample job description to test the
 
 ---
 
-# 📷 Screenshots
+## 📷 Screenshots
 
-Project screenshots and demo video are available in the `Screenshots` folder.
+### Application Interface
 
-```
-Screenshots/
-├── 1.jpg
-└── Demo.mp4
-```
+![JobFit Screenshot](Screenshots/1.jpg)
+
+### Demo Video
+
+A complete walkthrough of the application is available below:
+
+[▶ Watch Demo](Screenshots/Demo.mp4)
 
 ---
 
